@@ -9,9 +9,9 @@ It replicates the rules and gameplay of the traditional Pig dice game as describ
 The game interface includes elements such as a virtual die, player scores, buttons for rolling and banking, and a message area to inform players about game events and outcomes.
 It provides a user-friendly experience with clear instructions and feedback to the players.
 
-Key Features:
+### Key Features:
 
-Rolling Dice:
+#### Rolling Dice:
 
 Players can roll a virtual die with a click of a button.
 Score Tracking: The software keeps track of the current turn's score and the total score for each player.
