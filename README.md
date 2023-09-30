@@ -2,6 +2,8 @@
 
 I have created a simple Pig dice game using vanilla JavaScript. The purpose of this software is to provide a digital implementation of the classic Pig dice game that allows players to enjoy the game online without the need for physical dice or boards. Here's a brief description of the software:
 
+---
+
 ### Description:
 
 The Pig dice game software is a web-based application that can be played in a web browser.
