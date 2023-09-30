@@ -37,9 +37,7 @@ As an educational tool for teaching probability concepts, the software can be us
 
 #### Practice: 
 
-For those interested in mastering Pig's strategy, the software offers a platform to practice and refine their gameplay skills.
-
-### Overall, this software aims to deliver an engaging and accessible digital version of the Pig dice game while serving as a useful tool for both entertainment and education.
+For those interested in mastering Pig's strategy, the software offers a platform to practice and refine their gameplay skills. Overall, this software aims to deliver an engaging and accessible digital version of the Pig dice game while serving as a useful tool for both entertainment and education.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
