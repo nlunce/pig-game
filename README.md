@@ -14,10 +14,21 @@ It provides a user-friendly experience with clear instructions and feedback to t
 #### Rolling Dice:
 
 Players can roll a virtual die with a click of a button.
-Score Tracking: The software keeps track of the current turn's score and the total score for each player.
-Turn Logic: It enforces the game's rules, including ending a player's turn if they roll a 1.
-Winning Condition: The game detects and announces the winner when a player reaches the target score.
-Restart: Players can restart the game to play again.
+
+#### Score Tracking: 
+
+The software keeps track of the current turn's score and the total score for each player.
+#### Turn Logic: 
+
+It enforces the game's rules, including ending a player's turn if they roll a 1.
+
+#### Winning Condition: 
+
+The game detects and announces the winner when a player reaches the target score.
+
+#### Restart: 
+
+Players can restart the game to play again.
 
 ### Purpose:
 
