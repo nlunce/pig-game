@@ -19,12 +19,17 @@ Turn Logic: It enforces the game's rules, including ending a player's turn if th
 Winning Condition: The game detects and announces the winner when a player reaches the target score.
 Restart: Players can restart the game to play again.
 
-Purpose:
+### Purpose:
 
 The purpose of creating this software is multifaceted:
 
-Entertainment: To provide a fun and interactive digital version of the Pig dice game that can be enjoyed by individuals or groups of players.
-Accessibility: To make the game accessible to a wider audience through a web-based platform, allowing players to enjoy it from their computers or mobile devices.
+#### Entertainment: 
+
+To provide a fun and interactive digital version of the Pig dice game that can be enjoyed by individuals or groups of players.
+
+#### Accessibility: 
+
+To make the game accessible to a wider audience through a web-based platform, allowing players to enjoy it from their computers or mobile devices.
 Learning: As an educational tool for teaching probability concepts, the software can be used by teachers or students to explore risk and decision-making in a playful setting.
 Practice: For those interested in mastering Pig's strategy, the software offers a platform to practice and refine their gameplay skills.
 Overall, this software aims to deliver an engaging and accessible digital version of the Pig dice game while serving as a useful tool for both entertainment and education.
