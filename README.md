@@ -2,21 +2,25 @@
 
 I have created a simple Pig dice game using vanilla JavaScript. The purpose of this software is to provide a digital implementation of the classic Pig dice game that allows players to enjoy the game online without the need for physical dice or boards. Here's a brief description of the software:
 
-Description:
+## Description:
 
 The Pig dice game software is a web-based application that can be played in a web browser.
 It replicates the rules and gameplay of the traditional Pig dice game as described earlier, including the ability to roll a virtual die, accumulate points, and make strategic decisions on when to roll or bank points.
 The game interface includes elements such as a virtual die, player scores, buttons for rolling and banking, and a message area to inform players about game events and outcomes.
 It provides a user-friendly experience with clear instructions and feedback to the players.
+
 Key Features:
 
-Rolling Dice: Players can roll a virtual die with a click of a button.
+Rolling Dice:
+
+Players can roll a virtual die with a click of a button.
 Score Tracking: The software keeps track of the current turn's score and the total score for each player.
 Turn Logic: It enforces the game's rules, including ending a player's turn if they roll a 1.
 Winning Condition: The game detects and announces the winner when a player reaches the target score.
 Restart: Players can restart the game to play again.
 
 Purpose:
+
 The purpose of creating this software is multifaceted:
 
 Entertainment: To provide a fun and interactive digital version of the Pig dice game that can be enjoyed by individuals or groups of players.
