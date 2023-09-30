@@ -85,6 +85,11 @@ Monokai Pro for Visual Studio Code
 * [JavaSctipt | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 * [live-server - npm](https://www.npmjs.com/package/live-server)
-
+  
 * [CSS Gradients - CSS Full Tutorial](https://www.youtube.com/watch?v=TYHFe4L9bfo&ab_channel=DevDreamer)
+  
+* [Git](https://git-scm.com/)
+  
+* [Visual Studio Code](https://code.visualstudio.com/)
 
+* [Node.js](https://nodejs.org/en)
