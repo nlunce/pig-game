@@ -25,6 +25,6 @@ Node live-server
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [JavaScript Full Course (2023) - Beginner to Pro - Part 1](https://www.youtube.com/watch?v=SBmSRK3feww&ab_channel=SuperSimpleDev)https://www.youtube.com/watch?v=SBmSRK3feww&ab_channel=SuperSimpleDev)
+* [JavaScript Full Course (2023) - Beginner to Pro - Part 1](https://www.youtube.com/watch?v=SBmSRK3feww&ab_channel=SuperSimpleDev)
   
 * [Web Site Name](http://url.link.goes.here)
