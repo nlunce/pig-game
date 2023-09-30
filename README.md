@@ -24,7 +24,11 @@ Node live-server
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [JavaScript Full Course (2023) - Beginner to Pro - Part 1](https://www.youtube.com/watch?v=SBmSRK3feww&ab_channel=SuperSimpleDev)
   
-* [Web Site Name](http://url.link.goes.here)
+* [JavaSctipt | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+* [live-server - npm](https://www.npmjs.com/package/live-server)
+
+* [CSS Gradients - CSS Full Tutorial](https://www.youtube.com/watch?v=TYHFe4L9bfo&ab_channel=DevDreamer)
+
