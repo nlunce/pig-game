@@ -11,6 +11,8 @@ It replicates the rules and gameplay of the traditional Pig dice game as describ
 The game interface includes elements such as a virtual die, player scores, buttons for rolling and banking, and a message area to inform players about game events and outcomes.
 It provides a user-friendly experience with clear instructions and feedback to the players.
 
+---
+
 ### Key Features:
 
 #### Rolling Dice:
@@ -32,6 +34,8 @@ The game detects and announces the winner when a player reaches the target score
 
 Players can restart the game to play again.
 
+---
+
 ### Purpose:
 
 The purpose of creating this software is multifaceted:
@@ -51,6 +55,8 @@ As an educational tool for teaching probability concepts, the software can be us
 #### Practice: 
 
 For those interested in mastering Pig's strategy, the software offers a platform to practice and refine their gameplay skills. Overall, this software aims to deliver an engaging and accessible digital version of the Pig dice game while serving as a useful tool for both entertainment and education.
+
+---
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
