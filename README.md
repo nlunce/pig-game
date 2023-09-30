@@ -12,12 +12,18 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio Code
 
-{Describe the programming language that you used}
+Git
+
+Node 18.18.0
+
+Node live-server
+
+
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [JavaScript Full Course (2023) - Beginner to Pro - Part 1]([http://url.link.goes.here](https://www.youtube.com/watch?v=SBmSRK3feww&ab_channel=SuperSimpleDev)https://www.youtube.com/watch?v=SBmSRK3feww&ab_channel=SuperSimpleDev)
 * [Web Site Name](http://url.link.goes.here)
