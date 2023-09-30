@@ -20,6 +20,9 @@ Node 18.18.0
 
 Node live-server
 
+Prettier - Code formatter
+
+Monokai Pro for Visual Studio Code
 
 
 # Useful Websites
