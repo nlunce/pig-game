@@ -59,7 +59,7 @@ For those interested in mastering Pig's strategy, the software offers a platform
 
 ---
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+# Software Demo Video and Transcript
 
 [Software Demo Video](https://youtu.be/JEidJAKv1Ks)
 
