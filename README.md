@@ -61,7 +61,9 @@ For those interested in mastering Pig's strategy, the software offers a platform
 
 # Software Demo Video and Transcript
 
-[Software Demo Video](https://youtu.be/JEidJAKv1Ks)
+* [Software Demo Video](https://youtu.be/JEidJAKv1Ks)
+
+* [Software Demo Video Transcript](https://docs.google.com/document/d/1ZTWHJC04OqRo1FWD2E70G2vTr8AZxrjLKnZjWCQjFnc/edit?usp=sharing)
 
 # Development Environment
 
